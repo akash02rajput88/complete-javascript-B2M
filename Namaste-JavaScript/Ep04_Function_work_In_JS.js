@@ -1,0 +1,1 @@
+//How functions work in javaScript
